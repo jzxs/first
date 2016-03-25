@@ -1,1 +1,2 @@
 echo "sss";
+echo intfo();
